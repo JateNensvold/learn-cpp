@@ -1,0 +1,5 @@
+# Direnv/Nix artifacts
+.direnv
+
+# Build files
+build
