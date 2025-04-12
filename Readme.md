@@ -29,7 +29,7 @@ Refer to [justfile](./justfile) for the definition of both build commands
 
 ## Run code
 
-Use the following command to execute the binary for this project after it is build
+Use the following command to execute the binary for this project after it is built
 
 ```justfile
 just run
